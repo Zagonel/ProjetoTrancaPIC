@@ -1,0 +1,8 @@
+C:\Users\igor_\Downloads\ExemploSqliteSimples\obj\Debug\ExemploSqliteSimples.csprojResolveAssemblyReference.cache
+C:\Users\igor_\Downloads\ExemploSqliteSimples\obj\Debug\ExemploSqliteSimples.MainForm.resources
+C:\Users\igor_\Downloads\ExemploSqliteSimples\obj\Debug\ExemploSqliteSimples.csproj.GenerateResource.Cache
+C:\Users\igor_\Downloads\ExemploSqliteSimples\bin\Debug\ExemploSqliteSimples.exe.config
+C:\Users\igor_\Downloads\ExemploSqliteSimples\bin\Debug\ExemploSqliteSimples.exe
+C:\Users\igor_\Downloads\ExemploSqliteSimples\bin\Debug\ExemploSqliteSimples.pdb
+C:\Users\igor_\Downloads\ExemploSqliteSimples\obj\Debug\ExemploSqliteSimples.exe
+C:\Users\igor_\Downloads\ExemploSqliteSimples\obj\Debug\ExemploSqliteSimples.pdb
